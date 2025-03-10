@@ -40,5 +40,5 @@ $nextSlide.addEventListener("click", function () {
   $testimonialText.textContent = data[1].text;
   $testimonialauthor.textContent = data[1].author;
   $testimonialposition.textContent = data[1].position;
-  document.getElementById("Tanya Sinclar - UX Engineer").src="../images/image-john.jpg";
+  Tanya Sinclar - UX Engineer
 });
